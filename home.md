@@ -5,3 +5,5 @@
 Nothing yet :(
 
 [View previous posts](https://wavetecrr.github.io/utinet/posts)
+
+[Get new posts](https://wavetecrr.github.io/utinet/reload)
